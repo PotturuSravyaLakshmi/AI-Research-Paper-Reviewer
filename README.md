@@ -63,7 +63,7 @@ The application allows users to upload research papers in PDF format, extract th
                     ┌───────────────┼────────────────┐
                     ▼               ▼                ▼
              ┌─────────────┐ ┌─────────────┐ ┌──────────────┐
-             │   Summary   │ │    Review   │ │ Future Gaps  │
+             │   Summary   │ │    Review   │ │   Insights   │
              └─────────────┘ └─────────────┘ └──────────────┘
                     │               │                │
                     └───────────────┼────────────────┘
