@@ -71,7 +71,8 @@ The application allows users to upload research papers in PDF format, extract th
                          ┌──────────────────────┐
                          │   Research Insights  │
                          └──────────────────────┘
-'''
+```
+
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
@@ -127,3 +128,4 @@ AI-Research-Paper-Reviewer/
 │
 └── utils/
     └── __init__.py
+```
